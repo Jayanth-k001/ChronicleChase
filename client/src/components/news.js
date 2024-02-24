@@ -5,7 +5,7 @@ import { Spinner } from "./loader";
 import { Navbar } from "./navbar";
 
 export const News = (props) => {
-  const apiKey = "6a87d4e26bd04d989a0f62bd4e67b40f";
+  const apiKey = "YOUR_API_KEY";
   const pageSize = 20;
   const bottomRef = useRef(null);
 
